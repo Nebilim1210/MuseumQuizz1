@@ -6,11 +6,14 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/alain/Documents/Unreal Projects/MuseumQuizz1/Content/Start_Menu.umap",
-				"C:/Users/alain/Documents/Unreal Projects/MuseumQuizz1/Content/Quizz_Blueprints/BP_QuestionData.uasset",
-				"C:/Users/alain/Documents/Unreal Projects/MuseumQuizz1/Content/Quizz_Blueprints/QuestionData.uasset",
 				"C:/Users/alain/Documents/Unreal Projects/MuseumQuizz1/Content/Quizz_Blueprints/QuizManager.uasset",
 				"C:/Users/alain/Documents/Unreal Projects/MuseumQuizz1/Content/Quizz_Blueprints/DT_QuestionList.uasset",
-				"C:/Users/alain/Documents/Unreal Projects/MuseumQuizz1/Content/Quizz_Blueprints/ST_QuestionData.uasset"
+				"C:/Users/alain/Documents/Unreal Projects/MuseumQuizz1/Content/Quizz_Blueprints/ST_QuestionData.uasset",
+				"C:/Users/alain/Documents/Unreal Projects/MuseumQuizz1/Content/Quizz_UI/WB_QuestionWidget.uasset",
+				"C:/Users/alain/Documents/Unreal Projects/MuseumQuizz1/Content/Quizz_UI/WBP_QuestionWidget.uasset",
+				"C:/Users/alain/Documents/Unreal Projects/MuseumQuizz1/Content/Quizz_Blueprints/BP_QuizManager.uasset",
+				"C:/Users/alain/Documents/Unreal Projects/MuseumQuizz1/Content/Quizz_Blueprints/BP_QuestionData.uasset",
+				"C:/Users/alain/Documents/Unreal Projects/MuseumQuizz1/Content/Quizz_Blueprints/QuestionData.uasset"
 			]
 		}
 	]
