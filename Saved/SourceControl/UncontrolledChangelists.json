@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/alain/Documents/Unreal Projects/MuseumQuizz1/Content/Start_Menu.umap",
+				"C:/Users/alain/Documents/Unreal Projects/MuseumQuizz1/Content/Quizz_Blueprints/BP_QuestionData.uasset",
+				"C:/Users/alain/Documents/Unreal Projects/MuseumQuizz1/Content/Quizz_Blueprints/QuestionData.uasset",
+				"C:/Users/alain/Documents/Unreal Projects/MuseumQuizz1/Content/Quizz_Blueprints/QuizManager.uasset",
+				"C:/Users/alain/Documents/Unreal Projects/MuseumQuizz1/Content/Quizz_Blueprints/DT_QuestionList.uasset",
+				"C:/Users/alain/Documents/Unreal Projects/MuseumQuizz1/Content/Quizz_Blueprints/ST_QuestionData.uasset"
+			]
+		}
+	]
+}
