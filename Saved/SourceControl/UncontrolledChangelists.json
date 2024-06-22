@@ -6,12 +6,21 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/alain/Documents/Unreal Projects/MuseumQuizz1/Content/Start_Menu.umap",
-				"C:/Users/alain/Documents/Unreal Projects/MuseumQuizz1/Content/Quizz_Blueprints/QuizManager.uasset",
 				"C:/Users/alain/Documents/Unreal Projects/MuseumQuizz1/Content/Quizz_Blueprints/DT_QuestionList.uasset",
 				"C:/Users/alain/Documents/Unreal Projects/MuseumQuizz1/Content/Quizz_Blueprints/ST_QuestionData.uasset",
-				"C:/Users/alain/Documents/Unreal Projects/MuseumQuizz1/Content/Quizz_UI/WB_QuestionWidget.uasset",
 				"C:/Users/alain/Documents/Unreal Projects/MuseumQuizz1/Content/Quizz_UI/WBP_QuestionWidget.uasset",
 				"C:/Users/alain/Documents/Unreal Projects/MuseumQuizz1/Content/Quizz_Blueprints/BP_QuizManager.uasset",
+				"C:/Users/alain/Documents/Unreal Projects/MuseumQuizz1/Content/Quizz_Blueprints/BP_Gamemode.uasset",
+				"C:/Users/alain/Documents/Unreal Projects/MuseumQuizz1/Content/Quizz_UI/Mainmenu.uasset",
+				"C:/Users/alain/Documents/Unreal Projects/MuseumQuizz1/Content/Niveaux/Start_Menu.umap",
+				"C:/Users/alain/Documents/Unreal Projects/MuseumQuizz1/Content/Niveaux/Question_Menu.umap",
+				"C:/Users/alain/Documents/Unreal Projects/MuseumQuizz1/Content/Niveaux/FirstMenu.umap",
+				"C:/Users/alain/Documents/Unreal Projects/MuseumQuizz1/Content/Niveaux/MainMenu.umap",
+				"C:/Users/alain/Documents/Unreal Projects/MuseumQuizz1/Content/Quizz_UI/WBP_MainMenu.uasset",
+				"C:/Users/alain/Documents/Unreal Projects/MuseumQuizz1/Content/Niveaux/NewWorld.umap",
+				"C:/Users/alain/Documents/Unreal Projects/MuseumQuizz1/Content/Niveaux/Boot_Menu.umap",
+				"C:/Users/alain/Documents/Unreal Projects/MuseumQuizz1/Content/Quizz_Blueprints/QuizManager.uasset",
+				"C:/Users/alain/Documents/Unreal Projects/MuseumQuizz1/Content/Quizz_UI/WB_QuestionWidget.uasset",
 				"C:/Users/alain/Documents/Unreal Projects/MuseumQuizz1/Content/Quizz_Blueprints/BP_QuestionData.uasset",
 				"C:/Users/alain/Documents/Unreal Projects/MuseumQuizz1/Content/Quizz_Blueprints/QuestionData.uasset"
 			]
